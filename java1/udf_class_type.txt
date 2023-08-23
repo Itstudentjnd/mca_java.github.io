@@ -1,0 +1,15 @@
+Return value   Function name  argument
+(output)                        (input)
+
+
+(1). no argument no Return value
+ex:void sum (void)
+
+(2). with argument no Return value
+ex:void sum (int a, int b)
+
+(3). no argument with Return value
+ex:int sum (void)
+
+(4). With argument with Return value
+ex:int sum (int a, int b)
