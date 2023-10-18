@@ -1,0 +1,8 @@
+(1). Public
+(2). Same as class name
+(3). Two types
+(4). No Return value even void
+(5). Automatic call no need to call
+(6). One class have multipule constructor
+(7). First non parameterized and then parameterized
+(8). More  then one constructor call constructor overload
